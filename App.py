@@ -1,6 +1,6 @@
+import streamlit as st
 import ping3
 import openpyxl
-import streamlit as st
 
 def ping_ping3(hostname):
     timeout = 3
