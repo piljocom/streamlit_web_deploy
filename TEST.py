@@ -6,4 +6,6 @@ from time import sleep
 
 st.set_page_config(
     page_title="TEST"
+    view = [100,50,1]
+    view
 )
