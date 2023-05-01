@@ -1,5 +1,5 @@
-import openpyxl
 import ping3
+import openpyxl
 import streamlit as st
 
 def ping_ping3(hostname):
